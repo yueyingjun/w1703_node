@@ -1,0 +1,14 @@
+{
+  "entry":"index.html",
+  "root":"www",
+  "type":{
+    ".jpg":"image/jpeg",
+    ".png":"image/png",
+    ".gif":"image/gif",
+    ".css":"text/css",
+    ".js":"application/x-javascript",
+    ".mp3":"audio/mp3",
+    ".html":"text/html"
+  },
+  "static":"abc"
+}
